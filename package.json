@@ -1,0 +1,26 @@
+{
+  "name": "kanban-board-with-react-and-react-dnd",
+  "description": null,
+  "version": "0.0.235",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "classnames": "2.2.5",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "got": "^11.8.2",
+    "http-proxy-middleware": "^2.0.1",
+    "lodash": "4.17.4",
+    "react": "^18.0.0-alpha-5cccacd13-20211101",
+    "react-dnd": "2.5.4",
+    "react-dnd-html5-backend": "2.5.4",
+    "react-dom": "^18.0.0-alpha-5cccacd13-20211101"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
